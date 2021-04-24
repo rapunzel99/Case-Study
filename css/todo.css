@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url('https://cdn.pixabay.com/photo/2015/09/02/12/30/foot-bridge-918476_1280.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.header{
+    text-align: center;
+    color: white;
+    padding-top: 15%;
+}
+#first{
+   margin-top: 20px;
+   
+}
+#next{
+    padding-top: 30px;
+}
+/* todo list */
+#todo-head{
+    color: whitesmoke;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+table{
+    margin-top: 3%;
+    margin-left: 25%;
+    background-color: transparent;
+    color: white;
+    
+}
+table,th,td{
+    border: 2px solid white;
+    padding: 5px;
+    text-align: center;
+}
+th{
+    text-transform: uppercase;
+    color: white;
+    background-color: gray;
+}
