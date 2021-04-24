@@ -37,5 +37,5 @@ function formconfirm(username,password,callback){
 // callback function definition
 function callback(){
     var direct = document.getElementById("loginform");
-    direct.setAttribute("action","index.html");
+    direct.setAttribute("action","home.html");
 }
